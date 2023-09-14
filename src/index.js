@@ -16,7 +16,7 @@ function Header() {
   const styles = {};
   return (
     <header className="header">
-      <h1 style={styles}>Pizza House </h1>
+      <h1 style={styles}>Pizza House 1 </h1>
     </header>
   );
 }
